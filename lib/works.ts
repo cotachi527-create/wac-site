@@ -50,7 +50,7 @@ export const works: Work[] = [
   },
   {
     id: "006",
-    src: "/images/works/起業のイメージ.png",
+    src: "/images/works/day006.jpg",
     title: "起業のイメージ",
     date: "2026-05-24",
     description: "",

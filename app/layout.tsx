@@ -11,6 +11,15 @@ const notoSerifJP = Noto_Serif_JP({
 export const metadata: Metadata = {
   title: "WAC - World Art Creator | 安岡 亮",
   description: "職人気質のこだわりと、AIの機動力を掛け合わせ、あなたの感性を形にします。",
+  robots: { index: true, follow: true },
+  openGraph: {
+    title: "WAC - World Art Creator | 安岡 亮",
+    description: "職人気質のこだわりと、AIの機動力を掛け合わせ、あなたの感性を形にします。",
+    url: "https://wac-site-five.vercel.app",
+    siteName: "WAC - World Art Creator",
+    locale: "ja_JP",
+    type: "website",
+  },
 };
 
 export default function RootLayout({

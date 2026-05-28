@@ -56,4 +56,20 @@ export const works: Work[] = [
     description: "",
     tags: [],
   },
+  {
+    id: "007",
+    src: "/images/works/day007.jpg",
+    title: "タイトル",
+    date: "2026-05-28",
+    description: "",
+    tags: [],
+  },
+  {
+    id: "008",
+    src: "/images/works/day008.png",
+    title: "タイトル",
+    date: "2026-05-29",
+    description: "",
+    tags: [],
+  },
 ];

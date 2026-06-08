@@ -72,4 +72,28 @@ export const works: Work[] = [
     description: "",
     tags: [],
   },
+{
+    id: "009",
+    src: "/images/works/day009.png",
+    title: "無題",
+    date: "2026-05-30",
+    description: "",
+    tags: [],
+  },
+  {
+    id: "010",
+    src: "/images/works/day010.png",
+    title: "今日の気分",
+    date: "2026-05-31",
+    description: "",
+    tags: [],
+  },
+  {
+    id: "011",
+    src: "/images/works/day011.png",
+    title: "筋トレ事故",
+    date: "2026-06-01",
+    description: "",
+    tags: [],
+  },
 ];

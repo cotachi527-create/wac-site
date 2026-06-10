@@ -72,7 +72,7 @@ export const works: Work[] = [
     description: "",
     tags: [],
   },
-{
+  {
     id: "009",
     src: "/images/works/day009.png",
     title: "無題",
